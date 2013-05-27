@@ -1,4 +1,4 @@
-h3. Url Field  Formatter
+#### Url Field  Formatter
 
 You have model, you have a field say website that saves url, you want to save 'http://' everytime, if the user 
 
@@ -9,7 +9,7 @@ Now, you don't want to push user to enter full url.
 In that case this gem can be helpful. It just prepends 'http://' to the url, if the url does not starts with http or https.
 
 
-h3. How To Use
+#### How To Use
 
 ```ruby
 class Business < ActiveRecord::Base

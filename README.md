@@ -32,6 +32,6 @@ This gems add a before_save callback, which does the required job.
 
 #### Additional Info
 
-Clone it, run it, modify, do whatever you want to do. If, you face any issue or want to upgrade it
+Clone it, run it, modify it, do whatever you want to do. If, you face any issue or want to upgrade it,
 send me pull request or mail me at prashantsahni5@gmail.com
 

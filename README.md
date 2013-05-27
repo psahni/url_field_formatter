@@ -1,6 +1,6 @@
 #### Url Field  Formatter
 
-You have model, you have a field say website that saves url, you want to save 'http://' everytime, if the user 
+You have model, you have a field say website that saves url, you want to prepend 'http://' everytime, if the user 
 
 has not entered full url, instead he just entered for ex: 'something.com'.
 

@@ -13,7 +13,7 @@ In that case this gem can be helpful. It just prepends 'http://' to the url, if 
 
 ```ruby
 class Business < ActiveRecord::Base
-  url_format_field :website  
+  format_url_field :website  
 end
 
 

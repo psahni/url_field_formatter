@@ -4,7 +4,7 @@ module UrlFormatter
 
   included do
 
-    def self.url_field_formatter(field_name)
+    def self.format_url_field(field_name)
       class_eval do
         define_method "format_#{ field_name }" do
           field_value = send(field_name)
